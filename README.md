@@ -2,7 +2,7 @@
 
 ### Full Stack Software Engineer
 
-I build and evolve **enterprise platforms and applications** across multiple domains:
+I implement and evolve **enterprise platforms and applications** across multiple domains:
 
 <p>
   🌐 <strong>Crowdfunding Platforms</strong><br>
