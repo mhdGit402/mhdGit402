@@ -5,7 +5,7 @@
 I build and evolve **enterprise platforms and production systems** across:
 
 💳 **FinTech & Payment Gateways**  
-₿ **Cryptocurrency & Trading Platforms**  
+ ₿ **Cryptocurrency & Trading Platforms**  
 🤝 **Crowdfunding Platforms**  
 📡 **National Telecommunications Infrastructure**
 
