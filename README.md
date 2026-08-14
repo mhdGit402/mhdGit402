@@ -1,8 +1,8 @@
 # Hey, I'm Mahdi 
 
-### Full Stack Software Engineer | System Architecture
+### Full Stack Software Engineer
 
-I build and evolve **enterprise platforms and production systems** across multiple domains:
+I build and evolve **enterprise platforms and applications** across multiple domains:
 
 <p>
   🌐 <strong>Crowdfunding Platforms</strong><br>
@@ -15,13 +15,12 @@ I build and evolve **enterprise platforms and production systems** across multip
 
 ### </> Currently
 
+- Build and deliver applications **end-to-end** — APIs, data layers, front-end interfaces, admin panels, and AI/third-party integrations
 - Work across **system analysis, architecture, implementation, testing, deployment, and production support**
-- Design and implement **REST APIs, microservices, and backend architectures**
-- Build and deliver applications **end-to-end** — APIs, data layers, front-end interfaces, admin panels, and third-party/AI integrations
-- Modernize and enhance **legacy systems** for better performance and reliability
 - Contribute to telecommunications platforms supporting a **nationwide user base and millions of users**
-- Focus on **clean, reliable, scalable, and maintainable code**
+- Modernize and enhance **legacy systems** for better performance and reliability
 - Turn requirements and user feedback into practical product improvements
+- Focus on **clean, reliable, scalable, and maintainable code**
 
 ---
 
