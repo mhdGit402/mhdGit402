@@ -2,7 +2,7 @@
 
 ### Full Stack Software Engineer
 
-I implement and evolve **enterprise platforms and applications** across multiple domains:
+I’m proud to contribute to **enterprise platforms and applications** across multiple domains:
 
 <p>
   🌐 <strong>Crowdfunding Platforms</strong><br>
@@ -15,18 +15,18 @@ I implement and evolve **enterprise platforms and applications** across multiple
 
 ### </> Currently
 
-- Build and deliver applications **end-to-end** — APIs, data layers, front-end interfaces, admin panels, and AI/third-party integrations
+- Build and evolve applications **end-to-end** — APIs, data layers, front-end interfaces, admin panels, and AI/third-party integrations
 - Work across **system analysis, architecture, implementation, testing, deployment, and production support**
-- Contribute to telecommunications platforms supporting a **nationwide user base and millions of users**
+- Develop telecommunications platforms supporting a **nationwide user base and millions of users**
 - Modernize and enhance **legacy systems** for better performance and reliability
-- Turn requirements and user feedback into practical product improvements
-- Focus on **clean, reliable, scalable, and maintainable code**
+- Ensure product improvements align with **user needs and business goals**
+- Focus on **clean, scalable, and maintainable** code
 
 ---
 
 ###  Tech Stack
 
-Technology-agnostic by design — choosing the right tools based on the problem, requirements, and constraints.
+Technology-agnostic by design — choosing the right tools based on the technical requirements.
 
 ---
 
