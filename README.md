@@ -5,9 +5,9 @@
 Proud to contribute to **enterprise platforms and applications** across multiple domains:
 
 <p>
-  🌐 <strong>Crowdfunding Platforms</strong><br>
-  💳 <strong>Fintech & Payment Gateways</strong><br>
-  📈 <strong>Cryptocurrency & Trading Platforms</strong><br>
+  🌐 <strong>Crowdfunding Platforms</strong><br><br>
+  💳 <strong>Fintech & Payment Gateways</strong><br><br>
+  📈 <strong>Cryptocurrency & Trading Platforms</strong><br><br>
   📡 <strong>National Telecommunications Infrastructure</strong>
 </p>
 
