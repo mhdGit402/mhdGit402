@@ -2,7 +2,7 @@
 
 ### Full Stack Software Engineer
 
-I’m proud to contribute to **enterprise platforms and applications** across multiple domains:
+Proud to contribute to **enterprise platforms and applications** across multiple domains:
 
 <p>
   🌐 <strong>Crowdfunding Platforms</strong><br>
