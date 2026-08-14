@@ -13,14 +13,14 @@ Proud to contribute to **enterprise platforms and applications** across multiple
 
 ---
 
-### </> Currently
+### </> Core Focus
 
 - Build and evolve applications **end-to-end** — APIs, data layers, front-end interfaces, admin panels, and AI/third-party integrations
 - Work across **system analysis, architecture, implementation, testing, deployment, and production support**
 - Develop telecommunications platforms supporting a **nationwide user base and millions of users**
 - Modernize and enhance **legacy systems** for better performance and reliability
 - Ensure product improvements align with **user needs and business goals**
-- Focus on **clean, scalable, and maintainable** code
+- Prioritize **clean, scalable, and maintainable** code
 
 ---
 
