@@ -7,8 +7,8 @@ Proud to contribute to **enterprise platforms and applications** across multiple
 <p>
   🌐 <strong>Crowdfunding Platforms</strong><br>
   💳 <strong>Fintech & Payment Gateways</strong><br>
-  📈 <strong>Cryptocurrency & Trading Platforms</strong><br>
-  📡 <strong>National Telecommunications Infrastructure</strong>
+  📡 <strong>Telecommunications Infrastructure</strong><br>
+  📈 <strong>Cryptocurrency & Trading Platforms</strong>
 </p>
 
 ---
@@ -17,7 +17,7 @@ Proud to contribute to **enterprise platforms and applications** across multiple
 
 - Build and evolve applications **end-to-end** — APIs, data layers, front-end interfaces, admin panels, and AI/third-party integrations
 - Work across **system analysis, architecture, implementation, testing, deployment, and production support**
-- Develop telecommunications platforms supporting a **nationwide user base and millions of users**
+- Develop platforms designed to support **nationwide services and millions of users**
 - Modernize and enhance **legacy systems** for better performance and reliability
 - Ensure product improvements align with **user needs and business goals**
 - Prioritize **clean, scalable, and maintainable** code
