@@ -1,44 +1,33 @@
 # Hey, I'm Mahdi 
 
-### Full Stack Software Engineer | Backend & System Architecture
+### Full Stack Software Engineer | System Architecture
 
-I build and evolve **enterprise platforms and production systems** across:
+I build and evolve **enterprise platforms and production systems** across multiple domains:
 
 <p>
+  🌐 <strong>Crowdfunding Platforms</strong><br>
   💳 <strong>Fintech & Payment Gateways</strong><br>
   📈 <strong>Cryptocurrency & Trading Platforms</strong><br>
-  📡 <strong>National Telecommunications Infrastructure</strong><br>
-  🌐 <strong>Crowdfunding Platforms</strong>
+  📡 <strong>National Telecommunications Infrastructure</strong>
 </p>
 
 ---
 
-### </> What I Do
+### </> Currently
 
-- Build and deliver applications **end-to-end** — APIs, data layers, front-end interfaces, admin panels, and third-party/AI integrations
-- Design and implement **REST APIs, microservices, and backend architectures**
-- Modernize and enhance **legacy systems** for better maintainability, performance, reliability, and scalability
 - Work across **system analysis, architecture, implementation, testing, deployment, and production support**
-- Containerize applications with **Docker** and build **GitLab CI/CD** pipelines for consistent deployments
+- Design and implement **REST APIs, microservices, and backend architectures**
+- Build and deliver applications **end-to-end** — APIs, data layers, front-end interfaces, admin panels, and third-party/AI integrations
+- Modernize and enhance **legacy systems** for better performance and reliability
 - Contribute to telecommunications platforms supporting a **nationwide user base and millions of users**
 - Focus on **clean, reliable, scalable, and maintainable code**
+- Turn requirements and user feedback into practical product improvements
 
 ---
 
 ###  Tech Stack
 
-Technology-agnostic engineer focused on choosing the right tools for the problem.
-
-From backend services and distributed systems to front-end applications, databases, DevOps, and cloud-native infrastructure, I adapt the stack to business and technical requirements.
-
----
-
-### Currently
-
-- Building and evolving enterprise applications across multiple domains  
-- Working across backend engineering, system architecture, and full-stack development  
-- Improving legacy systems and engineering processes  
-- Turning requirements and user feedback into practical product improvements
+Technology-agnostic by design — choosing the right tools based on the problem, requirements, and constraints.
 
 ---
 
