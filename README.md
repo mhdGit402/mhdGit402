@@ -15,7 +15,7 @@ Proud to contribute to **enterprise platforms and applications** across multiple
 
 ### </> Core Focus
 
-- Build and evolve applications **end-to-end** — APIs, data layers, front-end interfaces, admin panels, AI & third-party integrations
+- Build and evolve applications **end-to-end** — APIs, data layers, user interfaces, admin panels, AI & third-party integrations
 - Work across **system analysis, architecture, implementation, testing, deployment, and production support**
 - Develop platforms designed to support **nationwide services and millions of users**
 - Modernize and enhance **legacy systems** for better performance and reliability
