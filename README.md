@@ -32,7 +32,7 @@ Technology-agnostic by design — choosing the right tools based on the technica
 
 ### Let's Connect
 
-[LinkedIn](https://linkedin.com/in/mahdi-ramezani-032987350) · [Email](mailto:mh.ramezani25@gmail.com)
+[Website](https://mramezani.vercel.app/) . [LinkedIn](https://linkedin.com/in/mahdi-ramezani-032987350) · [Email](mailto:mh.ramezani25@gmail.com)
 
 > Most of my production work lives in private enterprise repositories due to client confidentiality.  
 > Happy to discuss the architecture, engineering challenges, and design decisions behind the systems I've worked on.
