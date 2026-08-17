@@ -26,7 +26,7 @@ Proud to contribute to **enterprise platforms and applications** across multiple
 
 ###  Tech Stack
 
-Technology-agnostic by design — choosing the right tools based on the technical requirements.
+Technology-agnostic by design — the right tool for the problem.
 
 ---
 
