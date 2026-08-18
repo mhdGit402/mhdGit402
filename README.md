@@ -1,7 +1,5 @@
 # Hey, I'm Mahdi 
 
-### Full Stack Software Engineer
-
 Proud to contribute to **enterprise platforms and applications** across multiple domains:
 
 <p>
