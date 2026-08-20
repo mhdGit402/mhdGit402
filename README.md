@@ -30,7 +30,7 @@ Technology-agnostic by design — the right tool for the problem.
 
 ### Let's Connect
 
-[Website](https://mh-ramezani.vercel.app/) . [LinkedIn](https://www.linkedin.com/in/mh-ramezani/) · [Email](mailto:mh.ramezani25@gmail.com)
+[Website](https://mh-ramezani.vercel.app) . [LinkedIn](https://www.linkedin.com/in/mh-ramezani) · [Email](mailto:mh.ramezani25@gmail.com)
 
 > Most of my production work lives in private enterprise repositories due to client confidentiality.  
 > Happy to discuss the architecture, engineering challenges, and design decisions behind the systems I've worked on.
