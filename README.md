@@ -1,6 +1,6 @@
 # Hey, I'm Mahdi 
 
-Proud to contribute to **enterprise platforms and applications** across multiple domains:
+Proud to contribute to **enterprise platforms** across:
 
 <p>
   <strong>Fintech Applications</strong><br>
