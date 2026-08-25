@@ -3,10 +3,10 @@
 Proud to contribute to **enterprise platforms and applications** across multiple domains:
 
 <p>
-  💳 <strong>Fintech Applications</strong><br>
-  📈 <strong>Cryptocurrency Exchange</strong><br>
-  📡 <strong>Telecommunications Infrastructure</strong><br>
-  🌐 <strong>Crowdfunding & Investment Systems</strong>
+  <strong>Fintech Applications</strong><br>
+  <strong>Cryptocurrency Exchange</strong><br>
+  <strong>Telecommunications Infrastructure</strong><br>
+  <strong>Crowdfunding & Investment Systems</strong>
 </p>
 
 ---
